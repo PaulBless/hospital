@@ -54,10 +54,11 @@ $db['default']['password'] = '';
 $db['default']['database'] = 'hmsci';
 
 
-$db['default']['dbdriver'] = 'mysql';
+$db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
-$db['default']['pconnect'] = TRUE;
-$db['default']['db_debug'] = TRUE;
+$db['default']['pconnect'] = FALSE;
+// $db['default']['db_debug'] = TRUE;
+$db['default']['db_debug'] = 'development';
 $db['default']['cache_on'] = FALSE;
 $db['default']['cachedir'] = '';
 $db['default']['char_set'] = 'utf8';

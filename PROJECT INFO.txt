@@ -1,0 +1,26 @@
+**Hospital Administrative Management System!**
+
+**Database Name: hmsci**
+
+Installation Steps
+1 Download or Clone the project
+2 After download, unzip the project file and head over to your server directory ie XAMPP directory.
+3 Navigate to the “htdocs” folder
+4 Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+5 Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+6 Then, go to the URL “http://localhost/phpmyadmin“.
+7 Create a Database with a name that is provided inside the “PROJECT INFO.txt”.
+8 Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
+9 After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
+10 All the login details are provided inside the project folder, check that out and enter them in order to use it.
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: Password@123
+
+
+** Doctor Login Details**
+Email	: peterc@mail.com
+Password: password
